@@ -40,6 +40,6 @@ Install required libraries:
 
 ```bash
 pip install langchain ibm-watsonx-ai sentence-transformers huggingface_hub
-
+```
 ## Author
 Jessica Lenifer R
